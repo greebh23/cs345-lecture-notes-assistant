@@ -1,0 +1,1 @@
+# cs345-lecture-notes-assistant
