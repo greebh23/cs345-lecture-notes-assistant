@@ -1,1 +1,837 @@
-{"analysis":{"entities":[{"category":"Event","confidence":0.75,"length":7,"offset":8,"subcategory":null,"text":"lecture"},{"category":"DateTime","confidence":0.8,"length":5,"offset":16,"subcategory":"Date","text":"today"},{"category":"Skill","confidence":1.0,"length":7,"offset":77,"subcategory":null,"text":"Biology"},{"category":"Skill","confidence":0.61,"length":9,"offset":195,"subcategory":null,"text":"Organelle"},{"category":"Skill","confidence":0.95,"length":11,"offset":311,"subcategory":null,"text":"Homeostasis"},{"category":"Skill","confidence":0.68,"length":10,"offset":405,"subcategory":null,"text":"metabolism"}],"entity_linking":{"enabled":false,"message":"Entity linking was not implemented because it is optional."},"key_phrases":["stable internal condition","scientific study","basic structural","functional unit","living organisms","specialized structure","specific function","important concept","chemical reactions","lecture","fundamentals","biology","life","cell","Organelle","Homeostasis","maintenance","metabolism","sum","energy","matter"],"language":"en","sentiment":{"confidence_scores":{"negative":0.0,"neutral":0.98,"positive":0.01},"label":"neutral"},"text":"In this lecture today we are going to introduce the fundamentals of biology. Biology is the scientific study of life. The cell is the basic structural and functional unit of living organisms in. Organelle is a specialized structure within a cell that performs a specific function. Another important concept is. Homeostasis, which is the maintenance of a stable internal condition. In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."},"metrics":{"audio_duration_minutes":0.74,"key_terms_per_minute":28.56,"unique_key_terms":21},"study_materials":{"glossary":[{"context":"Homeostasis, which is the maintenance of a stable internal condition.","occurrences":1,"term":"stable internal condition"},{"context":"Biology is the scientific study of life.","occurrences":1,"term":"scientific study"},{"context":"The cell is the basic structural and functional unit of living organisms in.","occurrences":1,"term":"basic structural"},{"context":"The cell is the basic structural and functional unit of living organisms in.","occurrences":1,"term":"functional unit"},{"context":"The cell is the basic structural and functional unit of living organisms in.","occurrences":1,"term":"living organisms"},{"context":"Organelle is a specialized structure within a cell that performs a specific function.","occurrences":1,"term":"specialized structure"},{"context":"Organelle is a specialized structure within a cell that performs a specific function.","occurrences":1,"term":"specific function"},{"context":"Another important concept is.","occurrences":1,"term":"important concept"},{"context":"In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.","occurrences":1,"term":"chemical reactions"},{"context":"In this lecture today we are going to introduce the fundamentals of biology.","occurrences":1,"term":"lecture"},{"context":"In this lecture today we are going to introduce the fundamentals of biology.","occurrences":1,"term":"fundamentals"},{"context":"In this lecture today we are going to introduce the fundamentals of biology.","occurrences":2,"term":"biology"},{"context":"Biology is the scientific study of life.","occurrences":1,"term":"life"},{"context":"The cell is the basic structural and functional unit of living organisms in.","occurrences":2,"term":"cell"},{"context":"Organelle is a specialized structure within a cell that performs a specific function.","occurrences":1,"term":"Organelle"},{"context":"Homeostasis, which is the maintenance of a stable internal condition.","occurrences":1,"term":"Homeostasis"},{"context":"Homeostasis, which is the maintenance of a stable internal condition.","occurrences":1,"term":"maintenance"},{"context":"In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.","occurrences":1,"term":"metabolism"},{"context":"In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.","occurrences":1,"term":"sum"},{"context":"In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.","occurrences":1,"term":"energy"},{"context":"In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.","occurrences":1,"term":"matter"}],"quiz_questions":[{"answer":"stable internal condition","question":"Complete the missing term: Homeostasis, which is the maintenance of a ________."},{"answer":"scientific study","question":"Complete the missing term: Biology is the ________ of life."},{"answer":"basic structural","question":"Complete the missing term: The cell is the ________ and functional unit of living organisms in."}],"structured_notes":[{"details":["Homeostasis, which is the maintenance of a stable internal condition."],"topic":"stable internal condition"},{"details":["Biology is the scientific study of life."],"topic":"scientific study"},{"details":["The cell is the basic structural and functional unit of living organisms in."],"topic":"basic structural"},{"details":["The cell is the basic structural and functional unit of living organisms in."],"topic":"functional unit"},{"details":["The cell is the basic structural and functional unit of living organisms in."],"topic":"living organisms"},{"details":["Organelle is a specialized structure within a cell that performs a specific function."],"topic":"specialized structure"},{"details":["Organelle is a specialized structure within a cell that performs a specific function."],"topic":"specific function"},{"details":["Another important concept is."],"topic":"important concept"},{"details":["In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."],"topic":"chemical reactions"},{"details":["In this lecture today we are going to introduce the fundamentals of biology."],"topic":"lecture"},{"details":["In this lecture today we are going to introduce the fundamentals of biology."],"topic":"fundamentals"},{"details":["In this lecture today we are going to introduce the fundamentals of biology.","Biology is the scientific study of life."],"topic":"biology"},{"details":["Biology is the scientific study of life."],"topic":"life"},{"details":["The cell is the basic structural and functional unit of living organisms in.","Organelle is a specialized structure within a cell that performs a specific function."],"topic":"cell"},{"details":["Organelle is a specialized structure within a cell that performs a specific function."],"topic":"Organelle"},{"details":["Homeostasis, which is the maintenance of a stable internal condition."],"topic":"Homeostasis"},{"details":["Homeostasis, which is the maintenance of a stable internal condition."],"topic":"maintenance"},{"details":["In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."],"topic":"metabolism"},{"details":["In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."],"topic":"sum"},{"details":["In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."],"topic":"energy"},{"details":["In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."],"topic":"matter"}]},"transcription":{"confidence":0.847,"duration_seconds":44.12,"language":"en-US","transcript":"In this lecture today we are going to introduce the fundamentals of biology. Biology is the scientific study of life. The cell is the basic structural and functional unit of living organisms in. Organelle is a specialized structure within a cell that performs a specific function. Another important concept is. Homeostasis, which is the maintenance of a stable internal condition. In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.","words":[{"confidence":0.9647938,"duration":0.32,"offset":1.23,"word":"in"},{"confidence":0.7926419,"duration":0.24,"offset":1.55,"word":"this"},{"confidence":0.8923307,"duration":0.48,"offset":1.79,"word":"lecture"},{"confidence":0.904424,"duration":0.96,"offset":2.27,"word":"today"},{"confidence":0.834078,"duration":0.2,"offset":3.23,"word":"we"},{"confidence":0.81086737,"duration":0.16,"offset":3.43,"word":"are"},{"confidence":0.9477385,"duration":0.32,"offset":3.59,"word":"going"},{"confidence":0.9440457,"duration":0.12,"offset":3.91,"word":"to"},{"confidence":0.8153987,"duration":0.8,"offset":4.03,"word":"introduce"},{"confidence":0.94852436,"duration":0.16,"offset":4.83,"word":"the"},{"confidence":0.8501379,"duration":1.08,"offset":4.99,"word":"fundamentals"},{"confidence":0.8254488,"duration":0.36,"offset":6.11,"word":"of"},{"confidence":0.9419412,"duration":1.16,"offset":6.47,"word":"biology"},{"confidence":0.9035159,"duration":0.88,"offset":7.71,"word":"biology"},{"confidence":0.94600385,"duration":0.28,"offset":8.59,"word":"is"},{"confidence":0.93122447,"duration":0.16,"offset":8.87,"word":"the"},{"confidence":0.8641015,"duration":0.76,"offset":9.03,"word":"scientific"},{"confidence":0.94679314,"duration":0.48,"offset":9.79,"word":"study"},{"confidence":0.9494277,"duration":0.24,"offset":10.27,"word":"of"},{"confidence":0.81533366,"duration":0.8,"offset":10.51,"word":"life"},{"confidence":0.85463804,"duration":0.24,"offset":11.35,"word":"the"},{"confidence":0.84041387,"duration":0.56,"offset":11.59,"word":"cell"},{"confidence":0.91615283,"duration":0.32,"offset":12.15,"word":"is"},{"confidence":0.8922373,"duration":0.16,"offset":12.47,"word":"the"},{"confidence":0.8730665,"duration":0.52,"offset":12.63,"word":"basic"},{"confidence":0.8195262,"duration":0.76,"offset":13.15,"word":"structural"},{"confidence":0.9371071,"duration":0.2,"offset":13.91,"word":"and"},{"confidence":0.7635179,"duration":0.76,"offset":14.11,"word":"functional"},{"confidence":0.7902887,"duration":0.56,"offset":14.87,"word":"unit"},{"confidence":0.9045551,"duration":0.24,"offset":15.43,"word":"of"},{"confidence":0.7862568,"duration":0.36,"offset":15.67,"word":"living"},{"confidence":0.806749,"duration":1.2,"offset":16.03,"word":"organisms"},{"confidence":0.62704384,"duration":0.2,"offset":17.31,"word":"in"},{"confidence":0.57472116,"duration":0.84,"offset":17.51,"word":"organelle"},{"confidence":0.9356847,"duration":0.28,"offset":18.43,"word":"is"},{"confidence":0.86071926,"duration":0.04,"offset":18.71,"word":"a"},{"confidence":0.55588263,"duration":0.8,"offset":18.75,"word":"specialized"},{"confidence":0.83355016,"duration":0.72,"offset":19.55,"word":"structure"},{"confidence":0.9438628,"duration":0.4,"offset":20.27,"word":"within"},{"confidence":0.9097185,"duration":0.04,"offset":20.67,"word":"a"},{"confidence":0.94597614,"duration":0.52,"offset":20.71,"word":"cell"},{"confidence":0.9389082,"duration":0.24,"offset":21.23,"word":"that"},{"confidence":0.84586287,"duration":0.64,"offset":21.47,"word":"performs"},{"confidence":0.790222,"duration":0.04,"offset":22.15,"word":"a"},{"confidence":0.93608063,"duration":0.76,"offset":22.23,"word":"specific"},{"confidence":0.7989435,"duration":1.04,"offset":22.99,"word":"function"},{"confidence":0.8503434,"duration":0.56,"offset":24.15,"word":"another"},{"confidence":0.85076356,"duration":0.56,"offset":24.71,"word":"important"},{"confidence":0.7921613,"duration":0.56,"offset":25.27,"word":"concept"},{"confidence":0.79688996,"duration":0.08,"offset":25.83,"word":"is"},{"confidence":0.7192522,"duration":0.96,"offset":26.8,"word":"homeostasis"},{"confidence":0.91754115,"duration":0.32,"offset":27.88,"word":"which"},{"confidence":0.8352868,"duration":0.12,"offset":28.2,"word":"is"},{"confidence":0.8370742,"duration":0.16,"offset":28.32,"word":"the"},{"confidence":0.7576022,"duration":0.84,"offset":28.48,"word":"maintenance"},{"confidence":0.907372,"duration":0.2,"offset":29.36,"word":"of"},{"confidence":0.88520163,"duration":0.04,"offset":29.56,"word":"a"},{"confidence":0.9144454,"duration":0.64,"offset":29.6,"word":"stable"},{"confidence":0.8146472,"duration":0.6,"offset":30.24,"word":"internal"},{"confidence":0.5702338,"duration":0.36,"offset":30.84,"word":"condition"},{"confidence":0.84106237,"duration":0.24,"offset":32.07,"word":"in"},{"confidence":0.9069357,"duration":0.12,"offset":32.31,"word":"an"},{"confidence":0.7865303,"duration":0.84,"offset":32.43,"word":"organism"},{"confidence":0.91875803,"duration":0.92,"offset":33.67,"word":"finally"},{"confidence":0.79738647,"duration":1.12,"offset":34.63,"word":"metabolism"},{"confidence":0.9026134,"duration":0.8,"offset":35.75,"word":"refers"},{"confidence":0.9201849,"duration":0.2,"offset":36.55,"word":"to"},{"confidence":0.7750775,"duration":0.12,"offset":36.75,"word":"the"},{"confidence":0.93321073,"duration":0.48,"offset":36.87,"word":"sum"},{"confidence":0.9111965,"duration":0.24,"offset":37.35,"word":"of"},{"confidence":0.8380478,"duration":0.6,"offset":37.59,"word":"chemical"},{"confidence":0.81073034,"duration":1.16,"offset":38.19,"word":"reactions"},{"confidence":0.89882386,"duration":0.24,"offset":39.39,"word":"that"},{"confidence":0.9400465,"duration":1.0,"offset":39.63,"word":"transform"},{"confidence":0.94117343,"duration":0.68,"offset":40.67,"word":"energy"},{"confidence":0.86363965,"duration":0.24,"offset":41.35,"word":"and"},{"confidence":0.8132601,"duration":0.8,"offset":41.59,"word":"matter"},{"confidence":0.8763695,"duration":0.2,"offset":42.39,"word":"in"},{"confidence":0.8911397,"duration":0.12,"offset":42.59,"word":"an"},{"confidence":0.80239576,"duration":0.8,"offset":42.71,"word":"organism"}]}}
+{
+    "analysis": {
+        "entities": [
+            {
+                "category": "Event",
+                "confidence": 0.75,
+                "length": 7,
+                "offset": 8,
+                "subcategory": null,
+                "text": "lecture"
+            },
+            {
+                "category": "DateTime",
+                "confidence": 0.8,
+                "length": 5,
+                "offset": 16,
+                "subcategory": "Date",
+                "text": "today"
+            },
+            {
+                "category": "Skill",
+                "confidence": 1.0,
+                "length": 7,
+                "offset": 77,
+                "subcategory": null,
+                "text": "Biology"
+            },
+            {
+                "category": "Skill",
+                "confidence": 0.61,
+                "length": 9,
+                "offset": 195,
+                "subcategory": null,
+                "text": "Organelle"
+            },
+            {
+                "category": "Skill",
+                "confidence": 0.95,
+                "length": 11,
+                "offset": 311,
+                "subcategory": null,
+                "text": "Homeostasis"
+            },
+            {
+                "category": "Skill",
+                "confidence": 0.68,
+                "length": 10,
+                "offset": 405,
+                "subcategory": null,
+                "text": "metabolism"
+            }
+        ],
+        "entity_linking": {
+            "enabled": false,
+            "message": "Entity linking was not implemented because it is optional."
+        },
+        "key_phrases": [
+            "stable internal condition",
+            "scientific study",
+            "basic structural",
+            "functional unit",
+            "living organisms",
+            "specialized structure",
+            "specific function",
+            "important concept",
+            "chemical reactions",
+            "lecture",
+            "fundamentals",
+            "biology",
+            "life",
+            "cell",
+            "Organelle",
+            "Homeostasis",
+            "maintenance",
+            "metabolism",
+            "sum",
+            "energy",
+            "matter"
+        ],
+        "language": "en",
+        "sentiment": {
+            "confidence_scores": {
+                "negative": 0.0,
+                "neutral": 0.98,
+                "positive": 0.01
+            },
+            "label": "neutral"
+        },
+        "text": "In this lecture today we are going to introduce the fundamentals of biology. Biology is the scientific study of life. The cell is the basic structural and functional unit of living organisms in. Organelle is a specialized structure within a cell that performs a specific function. Another important concept is. Homeostasis, which is the maintenance of a stable internal condition. In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."
+    },
+    "metrics": {
+        "audio_duration_minutes": 0.74,
+        "key_terms_per_minute": 28.56,
+        "unique_key_terms": 21
+    },
+    "study_materials": {
+        "glossary": [
+            {
+                "context": "Homeostasis, which is the maintenance of a stable internal condition.",
+                "occurrences": 1,
+                "term": "stable internal condition"
+            },
+            {
+                "context": "Biology is the scientific study of life.",
+                "occurrences": 1,
+                "term": "scientific study"
+            },
+            {
+                "context": "The cell is the basic structural and functional unit of living organisms in.",
+                "occurrences": 1,
+                "term": "basic structural"
+            },
+            {
+                "context": "The cell is the basic structural and functional unit of living organisms in.",
+                "occurrences": 1,
+                "term": "functional unit"
+            },
+            {
+                "context": "The cell is the basic structural and functional unit of living organisms in.",
+                "occurrences": 1,
+                "term": "living organisms"
+            },
+            {
+                "context": "Organelle is a specialized structure within a cell that performs a specific function.",
+                "occurrences": 1,
+                "term": "specialized structure"
+            },
+            {
+                "context": "Organelle is a specialized structure within a cell that performs a specific function.",
+                "occurrences": 1,
+                "term": "specific function"
+            },
+            {
+                "context": "Another important concept is.",
+                "occurrences": 1,
+                "term": "important concept"
+            },
+            {
+                "context": "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.",
+                "occurrences": 1,
+                "term": "chemical reactions"
+            },
+            {
+                "context": "In this lecture today we are going to introduce the fundamentals of biology.",
+                "occurrences": 1,
+                "term": "lecture"
+            },
+            {
+                "context": "In this lecture today we are going to introduce the fundamentals of biology.",
+                "occurrences": 1,
+                "term": "fundamentals"
+            },
+            {
+                "context": "In this lecture today we are going to introduce the fundamentals of biology.",
+                "occurrences": 2,
+                "term": "biology"
+            },
+            {
+                "context": "Biology is the scientific study of life.",
+                "occurrences": 1,
+                "term": "life"
+            },
+            {
+                "context": "The cell is the basic structural and functional unit of living organisms in.",
+                "occurrences": 2,
+                "term": "cell"
+            },
+            {
+                "context": "Organelle is a specialized structure within a cell that performs a specific function.",
+                "occurrences": 1,
+                "term": "Organelle"
+            },
+            {
+                "context": "Homeostasis, which is the maintenance of a stable internal condition.",
+                "occurrences": 1,
+                "term": "Homeostasis"
+            },
+            {
+                "context": "Homeostasis, which is the maintenance of a stable internal condition.",
+                "occurrences": 1,
+                "term": "maintenance"
+            },
+            {
+                "context": "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.",
+                "occurrences": 1,
+                "term": "metabolism"
+            },
+            {
+                "context": "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.",
+                "occurrences": 1,
+                "term": "sum"
+            },
+            {
+                "context": "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.",
+                "occurrences": 1,
+                "term": "energy"
+            },
+            {
+                "context": "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.",
+                "occurrences": 1,
+                "term": "matter"
+            }
+        ],
+        "quiz_questions": [
+            {
+                "answer": "stable internal condition",
+                "question": "Complete the missing term: Homeostasis, which is the maintenance of a ________."
+            },
+            {
+                "answer": "scientific study",
+                "question": "Complete the missing term: Biology is the ________ of life."
+            },
+            {
+                "answer": "basic structural",
+                "question": "Complete the missing term: The cell is the ________ and functional unit of living organisms in."
+            }
+        ],
+        "structured_notes": [
+            {
+                "details": [
+                    "Homeostasis, which is the maintenance of a stable internal condition."
+                ],
+                "topic": "stable internal condition"
+            },
+            {
+                "details": [
+                    "Biology is the scientific study of life."
+                ],
+                "topic": "scientific study"
+            },
+            {
+                "details": [
+                    "The cell is the basic structural and functional unit of living organisms in."
+                ],
+                "topic": "basic structural"
+            },
+            {
+                "details": [
+                    "The cell is the basic structural and functional unit of living organisms in."
+                ],
+                "topic": "functional unit"
+            },
+            {
+                "details": [
+                    "The cell is the basic structural and functional unit of living organisms in."
+                ],
+                "topic": "living organisms"
+            },
+            {
+                "details": [
+                    "Organelle is a specialized structure within a cell that performs a specific function."
+                ],
+                "topic": "specialized structure"
+            },
+            {
+                "details": [
+                    "Organelle is a specialized structure within a cell that performs a specific function."
+                ],
+                "topic": "specific function"
+            },
+            {
+                "details": [
+                    "Another important concept is."
+                ],
+                "topic": "important concept"
+            },
+            {
+                "details": [
+                    "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."
+                ],
+                "topic": "chemical reactions"
+            },
+            {
+                "details": [
+                    "In this lecture today we are going to introduce the fundamentals of biology."
+                ],
+                "topic": "lecture"
+            },
+            {
+                "details": [
+                    "In this lecture today we are going to introduce the fundamentals of biology."
+                ],
+                "topic": "fundamentals"
+            },
+            {
+                "details": [
+                    "In this lecture today we are going to introduce the fundamentals of biology.",
+                    "Biology is the scientific study of life."
+                ],
+                "topic": "biology"
+            },
+            {
+                "details": [
+                    "Biology is the scientific study of life."
+                ],
+                "topic": "life"
+            },
+            {
+                "details": [
+                    "The cell is the basic structural and functional unit of living organisms in.",
+                    "Organelle is a specialized structure within a cell that performs a specific function."
+                ],
+                "topic": "cell"
+            },
+            {
+                "details": [
+                    "Organelle is a specialized structure within a cell that performs a specific function."
+                ],
+                "topic": "Organelle"
+            },
+            {
+                "details": [
+                    "Homeostasis, which is the maintenance of a stable internal condition."
+                ],
+                "topic": "Homeostasis"
+            },
+            {
+                "details": [
+                    "Homeostasis, which is the maintenance of a stable internal condition."
+                ],
+                "topic": "maintenance"
+            },
+            {
+                "details": [
+                    "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."
+                ],
+                "topic": "metabolism"
+            },
+            {
+                "details": [
+                    "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."
+                ],
+                "topic": "sum"
+            },
+            {
+                "details": [
+                    "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."
+                ],
+                "topic": "energy"
+            },
+            {
+                "details": [
+                    "In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism."
+                ],
+                "topic": "matter"
+            }
+        ]
+    },
+    "transcription": {
+        "confidence": 0.847,
+        "duration_seconds": 44.12,
+        "language": "en-US",
+        "transcript": "In this lecture today we are going to introduce the fundamentals of biology. Biology is the scientific study of life. The cell is the basic structural and functional unit of living organisms in. Organelle is a specialized structure within a cell that performs a specific function. Another important concept is. Homeostasis, which is the maintenance of a stable internal condition. In an Organism Finally, metabolism refers to the sum of chemical reactions that transform energy and matter in an Organism.",
+        "words": [
+            {
+                "confidence": 0.9647938,
+                "duration": 0.32,
+                "offset": 1.23,
+                "word": "in"
+            },
+            {
+                "confidence": 0.7926419,
+                "duration": 0.24,
+                "offset": 1.55,
+                "word": "this"
+            },
+            {
+                "confidence": 0.8923307,
+                "duration": 0.48,
+                "offset": 1.79,
+                "word": "lecture"
+            },
+            {
+                "confidence": 0.904424,
+                "duration": 0.96,
+                "offset": 2.27,
+                "word": "today"
+            },
+            {
+                "confidence": 0.834078,
+                "duration": 0.2,
+                "offset": 3.23,
+                "word": "we"
+            },
+            {
+                "confidence": 0.81086737,
+                "duration": 0.16,
+                "offset": 3.43,
+                "word": "are"
+            },
+            {
+                "confidence": 0.9477385,
+                "duration": 0.32,
+                "offset": 3.59,
+                "word": "going"
+            },
+            {
+                "confidence": 0.9440457,
+                "duration": 0.12,
+                "offset": 3.91,
+                "word": "to"
+            },
+            {
+                "confidence": 0.8153987,
+                "duration": 0.8,
+                "offset": 4.03,
+                "word": "introduce"
+            },
+            {
+                "confidence": 0.94852436,
+                "duration": 0.16,
+                "offset": 4.83,
+                "word": "the"
+            },
+            {
+                "confidence": 0.8501379,
+                "duration": 1.08,
+                "offset": 4.99,
+                "word": "fundamentals"
+            },
+            {
+                "confidence": 0.8254488,
+                "duration": 0.36,
+                "offset": 6.11,
+                "word": "of"
+            },
+            {
+                "confidence": 0.9419412,
+                "duration": 1.16,
+                "offset": 6.47,
+                "word": "biology"
+            },
+            {
+                "confidence": 0.9035159,
+                "duration": 0.88,
+                "offset": 7.71,
+                "word": "biology"
+            },
+            {
+                "confidence": 0.94600385,
+                "duration": 0.28,
+                "offset": 8.59,
+                "word": "is"
+            },
+            {
+                "confidence": 0.93122447,
+                "duration": 0.16,
+                "offset": 8.87,
+                "word": "the"
+            },
+            {
+                "confidence": 0.8641015,
+                "duration": 0.76,
+                "offset": 9.03,
+                "word": "scientific"
+            },
+            {
+                "confidence": 0.94679314,
+                "duration": 0.48,
+                "offset": 9.79,
+                "word": "study"
+            },
+            {
+                "confidence": 0.9494277,
+                "duration": 0.24,
+                "offset": 10.27,
+                "word": "of"
+            },
+            {
+                "confidence": 0.81533366,
+                "duration": 0.8,
+                "offset": 10.51,
+                "word": "life"
+            },
+            {
+                "confidence": 0.85463804,
+                "duration": 0.24,
+                "offset": 11.35,
+                "word": "the"
+            },
+            {
+                "confidence": 0.84041387,
+                "duration": 0.56,
+                "offset": 11.59,
+                "word": "cell"
+            },
+            {
+                "confidence": 0.91615283,
+                "duration": 0.32,
+                "offset": 12.15,
+                "word": "is"
+            },
+            {
+                "confidence": 0.8922373,
+                "duration": 0.16,
+                "offset": 12.47,
+                "word": "the"
+            },
+            {
+                "confidence": 0.8730665,
+                "duration": 0.52,
+                "offset": 12.63,
+                "word": "basic"
+            },
+            {
+                "confidence": 0.8195262,
+                "duration": 0.76,
+                "offset": 13.15,
+                "word": "structural"
+            },
+            {
+                "confidence": 0.9371071,
+                "duration": 0.2,
+                "offset": 13.91,
+                "word": "and"
+            },
+            {
+                "confidence": 0.7635179,
+                "duration": 0.76,
+                "offset": 14.11,
+                "word": "functional"
+            },
+            {
+                "confidence": 0.7902887,
+                "duration": 0.56,
+                "offset": 14.87,
+                "word": "unit"
+            },
+            {
+                "confidence": 0.9045551,
+                "duration": 0.24,
+                "offset": 15.43,
+                "word": "of"
+            },
+            {
+                "confidence": 0.7862568,
+                "duration": 0.36,
+                "offset": 15.67,
+                "word": "living"
+            },
+            {
+                "confidence": 0.806749,
+                "duration": 1.2,
+                "offset": 16.03,
+                "word": "organisms"
+            },
+            {
+                "confidence": 0.62704384,
+                "duration": 0.2,
+                "offset": 17.31,
+                "word": "in"
+            },
+            {
+                "confidence": 0.57472116,
+                "duration": 0.84,
+                "offset": 17.51,
+                "word": "organelle"
+            },
+            {
+                "confidence": 0.9356847,
+                "duration": 0.28,
+                "offset": 18.43,
+                "word": "is"
+            },
+            {
+                "confidence": 0.86071926,
+                "duration": 0.04,
+                "offset": 18.71,
+                "word": "a"
+            },
+            {
+                "confidence": 0.55588263,
+                "duration": 0.8,
+                "offset": 18.75,
+                "word": "specialized"
+            },
+            {
+                "confidence": 0.83355016,
+                "duration": 0.72,
+                "offset": 19.55,
+                "word": "structure"
+            },
+            {
+                "confidence": 0.9438628,
+                "duration": 0.4,
+                "offset": 20.27,
+                "word": "within"
+            },
+            {
+                "confidence": 0.9097185,
+                "duration": 0.04,
+                "offset": 20.67,
+                "word": "a"
+            },
+            {
+                "confidence": 0.94597614,
+                "duration": 0.52,
+                "offset": 20.71,
+                "word": "cell"
+            },
+            {
+                "confidence": 0.9389082,
+                "duration": 0.24,
+                "offset": 21.23,
+                "word": "that"
+            },
+            {
+                "confidence": 0.84586287,
+                "duration": 0.64,
+                "offset": 21.47,
+                "word": "performs"
+            },
+            {
+                "confidence": 0.790222,
+                "duration": 0.04,
+                "offset": 22.15,
+                "word": "a"
+            },
+            {
+                "confidence": 0.93608063,
+                "duration": 0.76,
+                "offset": 22.23,
+                "word": "specific"
+            },
+            {
+                "confidence": 0.7989435,
+                "duration": 1.04,
+                "offset": 22.99,
+                "word": "function"
+            },
+            {
+                "confidence": 0.8503434,
+                "duration": 0.56,
+                "offset": 24.15,
+                "word": "another"
+            },
+            {
+                "confidence": 0.85076356,
+                "duration": 0.56,
+                "offset": 24.71,
+                "word": "important"
+            },
+            {
+                "confidence": 0.7921613,
+                "duration": 0.56,
+                "offset": 25.27,
+                "word": "concept"
+            },
+            {
+                "confidence": 0.79688996,
+                "duration": 0.08,
+                "offset": 25.83,
+                "word": "is"
+            },
+            {
+                "confidence": 0.7192522,
+                "duration": 0.96,
+                "offset": 26.8,
+                "word": "homeostasis"
+            },
+            {
+                "confidence": 0.91754115,
+                "duration": 0.32,
+                "offset": 27.88,
+                "word": "which"
+            },
+            {
+                "confidence": 0.8352868,
+                "duration": 0.12,
+                "offset": 28.2,
+                "word": "is"
+            },
+            {
+                "confidence": 0.8370742,
+                "duration": 0.16,
+                "offset": 28.32,
+                "word": "the"
+            },
+            {
+                "confidence": 0.7576022,
+                "duration": 0.84,
+                "offset": 28.48,
+                "word": "maintenance"
+            },
+            {
+                "confidence": 0.907372,
+                "duration": 0.2,
+                "offset": 29.36,
+                "word": "of"
+            },
+            {
+                "confidence": 0.88520163,
+                "duration": 0.04,
+                "offset": 29.56,
+                "word": "a"
+            },
+            {
+                "confidence": 0.9144454,
+                "duration": 0.64,
+                "offset": 29.6,
+                "word": "stable"
+            },
+            {
+                "confidence": 0.8146472,
+                "duration": 0.6,
+                "offset": 30.24,
+                "word": "internal"
+            },
+            {
+                "confidence": 0.5702338,
+                "duration": 0.36,
+                "offset": 30.84,
+                "word": "condition"
+            },
+            {
+                "confidence": 0.84106237,
+                "duration": 0.24,
+                "offset": 32.07,
+                "word": "in"
+            },
+            {
+                "confidence": 0.9069357,
+                "duration": 0.12,
+                "offset": 32.31,
+                "word": "an"
+            },
+            {
+                "confidence": 0.7865303,
+                "duration": 0.84,
+                "offset": 32.43,
+                "word": "organism"
+            },
+            {
+                "confidence": 0.91875803,
+                "duration": 0.92,
+                "offset": 33.67,
+                "word": "finally"
+            },
+            {
+                "confidence": 0.79738647,
+                "duration": 1.12,
+                "offset": 34.63,
+                "word": "metabolism"
+            },
+            {
+                "confidence": 0.9026134,
+                "duration": 0.8,
+                "offset": 35.75,
+                "word": "refers"
+            },
+            {
+                "confidence": 0.9201849,
+                "duration": 0.2,
+                "offset": 36.55,
+                "word": "to"
+            },
+            {
+                "confidence": 0.7750775,
+                "duration": 0.12,
+                "offset": 36.75,
+                "word": "the"
+            },
+            {
+                "confidence": 0.93321073,
+                "duration": 0.48,
+                "offset": 36.87,
+                "word": "sum"
+            },
+            {
+                "confidence": 0.9111965,
+                "duration": 0.24,
+                "offset": 37.35,
+                "word": "of"
+            },
+            {
+                "confidence": 0.8380478,
+                "duration": 0.6,
+                "offset": 37.59,
+                "word": "chemical"
+            },
+            {
+                "confidence": 0.81073034,
+                "duration": 1.16,
+                "offset": 38.19,
+                "word": "reactions"
+            },
+            {
+                "confidence": 0.89882386,
+                "duration": 0.24,
+                "offset": 39.39,
+                "word": "that"
+            },
+            {
+                "confidence": 0.9400465,
+                "duration": 1.0,
+                "offset": 39.63,
+                "word": "transform"
+            },
+            {
+                "confidence": 0.94117343,
+                "duration": 0.68,
+                "offset": 40.67,
+                "word": "energy"
+            },
+            {
+                "confidence": 0.86363965,
+                "duration": 0.24,
+                "offset": 41.35,
+                "word": "and"
+            },
+            {
+                "confidence": 0.8132601,
+                "duration": 0.8,
+                "offset": 41.59,
+                "word": "matter"
+            },
+            {
+                "confidence": 0.8763695,
+                "duration": 0.2,
+                "offset": 42.39,
+                "word": "in"
+            },
+            {
+                "confidence": 0.8911397,
+                "duration": 0.12,
+                "offset": 42.59,
+                "word": "an"
+            },
+            {
+                "confidence": 0.80239576,
+                "duration": 0.8,
+                "offset": 42.71,
+                "word": "organism"
+            }
+        ]
+    }
+}
