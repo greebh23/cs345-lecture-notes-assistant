@@ -1,1 +1,3 @@
 # cs345-lecture-notes-assistant
+
+This Lecture Notes Assistant is a Python Flask application designed to help students review lecture recordings more efficiently. Using Azure AI Speech, the application converts uploaded audio into text transcripts. Azure AI Language then identifies key phrases, entities, and confidence scores. The application also generates structured study notes, a glossary of important terms, and three self-check quiz questions to help students review important concepts and check their understanding of the lecture material. It also tracks the number of unique key terms extracted per minute of audio to measure its performance.
